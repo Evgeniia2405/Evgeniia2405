@@ -11,4 +11,6 @@
 ![](https://img.shields.io/badge/-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2965f1)
 ![](https://img.shields.io/badge/-HTML5-informational?style=flat&logo=html5&logoColor=white&color=e34c26)
 ![](https://img.shields.io/badge/node.js-informational?style=flat&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/mongodb-informational?style=flat&logo=mongodb&logoColor=#47A248)
+![](https://img.shields.io/badge/figma-informational?style=flat&logo=figma&logoColor=white)
 ![](https://img.shields.io/badge/git-informational?style=flat&logo=git&logoColor=white)
