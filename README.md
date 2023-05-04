@@ -1,5 +1,8 @@
 <h1 align="center">Привет, меня зовут Евгения<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
----
+
+![HTML5](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)(https://t.me/Evgeniia_Anikeeva)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto:evgeniiaanikeeva@gmail.com
+)
 <p align='center'>
    <a href="https://t.me/Evgeniia_Anikeeva">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
