@@ -8,6 +8,7 @@
    <a href='mailto:evgeniiaanikeeva@gmail.com'>evgeniiaanikeeva@gmail.com</a>
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=evgeniiaanikeeva@gmail.com&logoColor=white"/>
 </p>
+![gmail](https://img.shields.io/badge/Gmail-evgeniiaanikeeva%40gmail.com-green)(mailto:evgeniiaanikeeva@gmail.com) 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=Evgenia2405&show_icons=true&count_private=true"><img
