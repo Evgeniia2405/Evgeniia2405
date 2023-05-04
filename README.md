@@ -5,9 +5,10 @@
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
-   📫 How to reach me: <a href='mailto:evgeniiaanikeeva@gmail.com'>evgeniiaanikeeva@gmail.com</a>
+   <a href='mailto:evgeniiaanikeeva@gmail.com'>evgeniiaanikeeva@gmail.com</a>
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=evgeniiaanikeeva@gmail.com&logoColor=white"/>
 </p>
-
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=Evgenia2405&show_icons=true&count_private=true"><img
            height=150
