@@ -16,4 +16,4 @@
 ![](https://img.shields.io/badge/git-informational?style=flat&logo=git&logoColor=white)
 
 ### 📉 Статистика 
-[![codewars](https://www.codewars.com/users/Evgeniia2405/badges/small)](https://www.codewars.com/users/Evgeniia2405)   
+[![codewars](https://www.codewars.com/users/Evgeniia2405/badges/large)](https://www.codewars.com/users/Evgeniia2405)   
