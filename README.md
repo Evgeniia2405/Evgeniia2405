@@ -14,3 +14,6 @@
 ![](https://img.shields.io/badge/mongodb-informational?style=flat&logo=mongodb&logoColor=47A248)
 ![](https://img.shields.io/badge/figma-informational?style=flat&logo=figma&logoColor=F24E1E)
 ![](https://img.shields.io/badge/git-informational?style=flat&logo=git&logoColor=white)
+
+### 📉 Статистика 
+[![codewars](https://www.codewars.com/users/Evgeniia2405/badges/large)](https://www.codewars.com/users/Evgeniia2405)   
