@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=&fontSize=90)
 ## Evgeniia Anikeeva
 <a href="mailto:evgeniiaanikeeva@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-evgeniiaanikeeva@gmail.com-informational?style=flat&logo=gmail&logoColor=white&labelColor=D14836)</a> <a href="https://t.me/Evgeniia_Anikeeva">![Telegram](https://img.shields.io/badge/Telegram-Evgeniia_Anikeeva-informational?style=flat&logo=telegram&logoColor=white)</a>
 
