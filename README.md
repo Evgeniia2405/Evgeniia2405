@@ -5,7 +5,7 @@
 ### Обо мне
 Я начинающий web-разработчик, прохожу обучение на курсе Яндекс.Практикум
 
-### 🔧 Имею навыки работы с:
+### 🔧 Мой стек:
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=%23F7DF1E&color=grey)
 ![](https://img.shields.io/badge/-React-informational?style=flat&logo=react&logoColor=61DBFB&color=grey)
 ![](https://img.shields.io/badge/-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2965f1)
@@ -15,5 +15,14 @@
 ![](https://img.shields.io/badge/figma-informational?style=flat&logo=figma&logoColor=F24E1E)
 ![](https://img.shields.io/badge/git-informational?style=flat&logo=git&logoColor=white)
 
-### 📉 Статистика 
+### 📉 Моя статистика 
 [![codewars](https://www.codewars.com/users/Evgeniia2405/badges/large)](https://www.codewars.com/users/Evgeniia2405)   
+
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=Evgeniia2405&hide=contribs&show_icons=true">
+  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=Evgeniia2405&hide=contribs&show_icons=true" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Evgeniia2405&layout=compact">
+  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evgeniia2405&layout=compact" />
+</a>
+</div>
